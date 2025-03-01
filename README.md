@@ -18,7 +18,7 @@
 ---
 ## 📝 Installation
 
-1. **Download** the latest release from the [Releases Section]([#](https://github.com/mrrazvanbogdan/Wordering/releases/tag/v1.0)).
+1. **Download** the latest release from the [Releases Section](https://github.com/mrrazvanbogdan/Wordering/releases/tag/v1.0).
 2. **Extract** the ZIP file.
 3. **Run** `WORDERING.exe` (for Windows).
 4. **Enjoy the medieval challenge!**
